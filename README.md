@@ -1,4 +1,7 @@
 # Breast Cancer Patient Stratification using Graph Analytics
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NetworkX](https://img.shields.io/badge/NetworkX-Graph%20Analytics-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A Python-based computational pipeline for identifying breast cancer gene modules using protein-protein interaction (PPI) networks and graph analytics techniques. The project integrates biological interaction data from multiple sources and applies network propagation, community detection, and pathway enrichment to generate disease-relevant gene modules for downstream patient stratification.
 
