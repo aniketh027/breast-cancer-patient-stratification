@@ -1,0 +1,2 @@
+step	network	disease	resolution	modularity	n_clusters_raw	n_clusters_valid	n_genes_valid	n_genes_dropped	min_cluster_size
+step12	disease_PPI_subgraph	BC	0.8	0.582621	6	4	161	28	20

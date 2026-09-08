@@ -1,0 +1,6 @@
+disease	viewA	viewB	comparison	metric	universe_size	value
+BC	string_leiden	disease_leiden	raw	NMI	32	0.5547
+BC	string_leiden	disease_leiden	raw	ARI	32	0.3718
+BC	string_leiden	disease_leiden	raw	Jaccard	32	0.3839
+BC	string_leiden	disease_merged	granularity_matched	NMI	32	0.6044
+BC	string_leiden	disease_merged	granularity_matched	ARI	32	0.5078

@@ -1,0 +1,2 @@
+step	network	disease	resolution	modularity	n_clusters_raw	n_clusters_valid	n_genes_valid	n_genes_dropped	min_cluster_size
+step6	STRING_subgraph	BC	1	0.338201	5	4	237	15	20

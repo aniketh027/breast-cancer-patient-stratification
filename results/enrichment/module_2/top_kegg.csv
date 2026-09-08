@@ -1,0 +1,2 @@
+Gene_set,Term,Overlap,P-value,Adjusted P-value,Old P-value,Old Adjusted P-value,Odds Ratio,Combined Score,Genes,module,n_genes_in_module
+KEGG_2021_Human,p53 signaling pathway,5/73,1.444095577756888e-07,7.653706562111507e-06,0,0,50.45131845841785,794.639163272718,TP53AIP1;TP53I3;ZMAT3;PPM1D;TP53,2,34

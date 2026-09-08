@@ -1,0 +1,19 @@
+# ── Raw / downloaded data (too large for GitHub) ──────────────
+resources/biogrid/
+resources/raw/string/
+
+# ── Temp / scratch files ──────────────────────────────────────
+others/inspect_nb.py
+others/nb_outputs.txt
+others/nb_structure.txt
+__pycache__/
+*.pyc
+
+# ── gseapy log files ─────────────────────────────────────────
+*.log
+
+# ── OS / IDE junk ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
